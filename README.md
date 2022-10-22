@@ -7,7 +7,7 @@ Info
 * feature 2
 ## Technologies
 ### Tools
-** Android Studio
+* Android Studio
 ### Languages
-** Kotlin
-** XML
+* Kotlin
+* XML
