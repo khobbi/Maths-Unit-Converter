@@ -1,7 +1,5 @@
 # Maths-Unit-Converter
 Android unit converter app
-## General Information
-Info
 ## Features
 * 12 categories of Units
 * 71 units
