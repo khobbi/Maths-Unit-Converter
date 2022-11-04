@@ -3,8 +3,10 @@ Android unit converter app
 ## General Information
 Info
 ## Features
-* feature 1
-* feature 2
+* 12 categories of Units
+* 71 units
+* Simple UI/UX
+* Faster and Accurate results
 ## Technologies
 ### Tools
 * Android Studio
